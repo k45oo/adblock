@@ -1,3 +1,10 @@
+[Adblock Plus 2.0]
+! Version: 01
+! Homepage: https://github.com/k45oo/adblock
+!
+
+!
+!-----------------------General advert blocking filters-----------------------!
 ||img.nga.178.com/attachments/mon_201209/14/-47218_*.png
 ||img4.nga.178.com/ngabbs/post/smile/*
 ||static.saraba1st.com/image/s1/*.gif
